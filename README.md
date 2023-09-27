@@ -29,7 +29,7 @@ Para executar o projeto, deve-se ter instalado localmente:
 1. Clone o projeto em sua máquina
 2. Dentro da pasta do projeto, no terminal, execute o comando: `npm i` para instalar as dependencias do projeto.
 
-### Executando o projeto:
+### Executando o projeto (*ainda em alteração*):
 
 1. Adicione dentro da pasta do projeto, os arquivos que queira que sejam executados.
 2. No arquivo `main.js`, adicione as constantes apontando o local dos arquivos a serem executados.
