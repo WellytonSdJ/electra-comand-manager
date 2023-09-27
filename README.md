@@ -40,9 +40,16 @@ Para executar o projeto, deve-se ter instalado localmente:
 
 ## TODO
 
- - [X] executar arquivos .bat
- - [x] executar arquivos .sh
- - [x] estilizar o sistema
+ - [ ] Criar página inicial do projeto
+ - [ ] Estilizar o sistema
+ 
+ - [ ] Executar arquivos .bat
+ - [ ] Executar arquivos .sh
+
+ - [ ] criar botão para adicinoar comandos
+ - [ ] criar botão para remover comandos
+ - [ ] criar botão para bloquear a remoção dos comandos
+ 
  - [ ] criar build do projeto.
  
  #### Ideias de melhorias
@@ -57,13 +64,13 @@ Para executar o projeto, deve-se ter instalado localmente:
 ---
 
 
- 
 
 
 ------------------------
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Created by https://electron-vite.org
 
 Currently, two official plugins are available:
 
